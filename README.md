@@ -1,4 +1,4 @@
-# Today-I-Learned
+# Today I Learned
 >배운 것들을 기록, 정리하는 공간. 시간과 공간을 초월하는 배움의 장소!
 
 ### 규칙
