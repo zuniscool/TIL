@@ -10,4 +10,4 @@
 <h1>Hello, HTML</h1> 은 요소(Element)라고 합니다.
 ```
 
-**ref** : [비전공자를 위한 HTML/CSS 2) HTML 문법 - 태그 - 1 - 부스트코스](https://www.boostcourse.org/cs120/lecture/253415?isDesc=false)
+**ref** : [비전공자를 위한 HTML/CSS 2) HTML 문법 - 태그 - 1 - 부스트코스](https://www.boostcourse.org/cs120/lecture/253418/?isDesc=false)
