@@ -15,4 +15,4 @@
 - reference를 명시하고, 원작자가 참고를 허용하는 자료만 사용한다.
 
 ## HTML
-- [HTML 생 기초 : 비전공자를 위한 HTML/CSS -부스트코스](https://github.com/zuniscool/TIL/blob/main/HTML/html01.md)
+- [HTML이 뭐야?](https://github.com/zuniscool/TIL/blob/main/HTML/What-is-HTML.md)
