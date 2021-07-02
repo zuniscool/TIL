@@ -15,4 +15,4 @@
 **태그란?**
  HTML은 태그들의 집합이며, 태그는 HTML에서 가장 중요하고 기본이 되는 규칙입니다.
 
-**ref** : https://www.boostcourse.org/cs120/lecture/253415?isDesc=false
+**ref** : [비전공자를 위한 HTML/CSS 2) HTML 문법 - 태그 - 1 - 부스트코스](https://www.boostcourse.org/cs120/lecture/253415?isDesc=false)
