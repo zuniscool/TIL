@@ -16,3 +16,6 @@
 ## HTML
 
 - [HTML이 뭐야?](https://github.com/zuniscool/TIL/blob/main/HTML/What-is-HTML.md)
+
+## CSS
+- li는 부모 요소인 ul의 width를 상속 받는다.
